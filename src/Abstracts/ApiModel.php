@@ -4,7 +4,7 @@ namespace Andphp\LaravelApi\Abstracts;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ApiModel
+abstract class ApiModel extends Model
 {
     /**
      * 错误信息
