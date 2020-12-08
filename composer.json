@@ -1,0 +1,16 @@
+{
+    "name": "andphp/laravel-api",
+    "description": "The laravel api from AndPHP.",
+    "type": "library",
+    "require": {
+        "php": ">= 7.3",
+        "laravel/laravel": ">= 8.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Andphp\\LaravelApi\\Abstracts": "src/Andphp/LaravelApi/Abstracts"
+        }
+    }
+}
