@@ -10,7 +10,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Andphp\\LaravelApi\\Abstracts": "src/Andphp/LaravelApi/Abstracts"
+            "Andphp\\LaravelApi": "src/"
         }
     }
 }
